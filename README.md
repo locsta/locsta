@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    I'm a <b>junior Data Scientist</b><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> and an <b>aspiring ML Ninja :man_cartwheeling: </b>  from London, United Kingdom.
+    I'm a <b>junior Data Scientist</b><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> and an <b>aspiring ML Ninja :man_cartwheeling: </b>  orginally from France, now living in London, United Kingdom.
   </em>
 <!--<img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" /> -->
 <img align="right" alt="Car flow GIF" height=250 width=350 src="https://media.giphy.com/media/QAmIYjAoHRuiIvyVLE/giphy.gif" />
@@ -65,9 +65,6 @@ Please feel free to clone projects and raise issues if you think something could
 
 ### Connect with me
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png">](mailto:locstaw@gmail.com)
-
-
-### [Visit My Website Here](https://code-joa.github.io/My-Website/)
 
 
 **Version Control:**  One and only GitHub :heart:
