@@ -4,8 +4,9 @@
   <em>
     I'm a <b>junior Data Scientist</b><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> and an <b>aspiring ML Ninja :man_cartwheeling: </b>  orginally from France, now living in London, United Kingdom.
   </em>
-<!--<img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" /> -->
-<img align="right" alt="Car flow GIF" height=250 width=350 src="https://media.giphy.com/media/QAmIYjAoHRuiIvyVLE/giphy.gif" />
+</p>
+<p>
+<img align="right" alt="Car flow GIF" height=200 width=350 src="https://media.giphy.com/media/QAmIYjAoHRuiIvyVLE/giphy.gif" />
 
  </p>
 
@@ -17,7 +18,7 @@
 - 👨🏽‍💻 I recently completed my Data Science studies at [Flatiron School](https://flatironschool.com/career-courses/data-science-bootcamp/london) in London.
 - 💼 I have a french equivalent of a Bachelor's degree in Quality, Logistics and Planning.
 - 🌱 I’m currently improving my skills on DataCamp.com and Coursera while working on personal (private) projects.
-- :construction: My professional interests are Data Science and Automation.
+- :man_judge: My professional interests are Data Science and Automation.
 - 🤔 My personal interests are Poker, NBA, economics, geopolitics and science.
 - :luggage: Over the past 15 years I've travelled extensively, mostly in USA, Asia, Europe and North Africa.
 - 📫 Please email via [locstaw@gmail.com](mailto:locstaw@gmail.com) to reach me.
@@ -31,7 +32,7 @@
 <div>
 <p>
 
-<img align="right" alt="Data Science GIF" height=250 width=350 src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif" />
+<img align="right" alt="Data Science GIF" height=200 width=350 src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif" />
 
 **My skills :fire:**
 
