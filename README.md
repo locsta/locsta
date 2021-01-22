@@ -65,14 +65,4 @@ Please feel free to clone projects and raise issues if you think something could
 
 ### Connect with me
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png">](mailto:locstaw@gmail.com)
-
-
-**Version Control:**  One and only GitHub :heart:
-
-
-
-
-
-### My Socials
-
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](https://www.linkedin.com/in/marc-inizan/)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png">](https://github.com/locsta)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/facebook.png">](https://www.facebook.com/marc.inizan) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png">](https://www.instagram.com/locstaw/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/twitter.png">](https://twitter.com/LocSta_)
