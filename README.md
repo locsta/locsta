@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    I'm a <b>junior Data Scientist</b><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> and an <b>aspiring ML Ninja :man_cartwheeling: </b>  orginally from France, now living in London, United Kingdom.
+    I'm a <b>junior Data Scientist</b><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> and an <b>aspiring ML Ninja :man_cartwheeling: </b>  originally from France, now living in London, United Kingdom.
   </em>
 </p>
 <p>
@@ -19,7 +19,8 @@
 - 💼 I have a french equivalent of a Bachelor's degree in Quality, Logistics and Planning.
 - 🌱 I’m currently improving my skills on DataCamp.com and Coursera while working on personal (private) projects.
 - :man_judge: My professional interests are Data Science and Automation.
-- 🤔 My personal interests are Poker, NBA, economics, geopolitics and science.
+- 🤔 My personal interests are economics, geopolitics, science, Poker, NBA and cooking.
+- :sunglasses: I played poker [professionally](https://www.winamax.fr/team-winamax_presentation_marc-inizan) for 10 years.
 - :luggage: Over the past 15 years I've travelled extensively, mostly in USA, Asia, Europe and North Africa.
 - 📫 Please email via [locstaw@gmail.com](mailto:locstaw@gmail.com) to reach me.
 - 📝 See my [Resume](https://drive.google.com/file/d/1qAO54uDKp9g2kW_iWTGIlY5tW3Yp_CMW/view?usp=sharing) to get more info.
