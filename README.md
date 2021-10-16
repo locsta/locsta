@@ -17,7 +17,7 @@
 
 - 👨🏽‍💻 I recently completed my Data Science studies at [Flatiron School](https://flatironschool.com/career-courses/data-science-bootcamp/london) in London.
 - 💼 I have a french equivalent of a Bachelor's degree in Quality, Logistics and Planning.
-- 🌱 I’m currently improving my skills on DataCamp.com and Coursera while working on personal (private) projects.
+- 🌱 I’m always looking to improve my skills (mostly using DataCamp.com, Coursera or YouTube).
 - :man_judge: My professional interests are Data Science and Automation.
 - 🤔 My personal interests are economics, geopolitics, science, Poker, NBA and cooking.
 - :sunglasses: I played poker [professionally](https://www.winamax.fr/team-winamax_presentation_marc-inizan) for 10 years.
