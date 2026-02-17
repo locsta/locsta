@@ -1,70 +1,63 @@
-### Hi there, I'm [Marc](https://www.linkedin.com/in/marc-inizan/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/locsta?style=social)
-
-<p>
-  <em>
-    I'm a <b> Data Scientist</b><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> and an <b>aspiring ML Ninja :man_cartwheeling: </b>  originally from France, now living in London, United Kingdom.
-  </em>
-</p>
-<p>
-<img align="right" alt="Car flow GIF" height=200 width=350 src="https://media.giphy.com/media/QAmIYjAoHRuiIvyVLE/giphy.gif" />
-
- </p>
-
-
-<em>
-
-**About me:**
-
-- 👨🏽‍💻 I recently completed my Data Science studies at [Flatiron School](https://flatironschool.com/career-courses/data-science-bootcamp/london) in London.
-- 💼 I have a french equivalent of a Bachelor's degree in Quality, Logistics and Planning.
-- 🌱 I’m always looking to improve my skills (mostly using DataCamp.com, Coursera or YouTube).
-- :man_judge: My professional interests are Data Science and Automation.
-- 🤔 My personal interests are economics, geopolitics, science, Poker, NBA and cooking.
-- :sunglasses: I played poker [professionally](https://www.winamax.fr/team-winamax_presentation_marc-inizan) for 10 years.
-- :luggage: Over the past 15 years I've travelled extensively, mostly in USA, Asia, Europe and North Africa.
-- 📫 Please email via [locstaw@gmail.com](mailto:locstaw@gmail.com) to reach me.
-- 📝 See my [Resume](https://drive.google.com/file/d/1qAO54uDKp9g2kW_iWTGIlY5tW3Yp_CMW/view?usp=sharing) to get more info.
-- 🎯 Visit my [linkedin profile](https://www.linkedin.com/in/marc-inizan/)
-
-<br/>
-</em>
-
-<hr>
-<div>
-<p>
-
-<img align="right" alt="Data Science GIF" height=200 width=350 src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif" />
-
-**My skills :fire:**
-
-**Languages:**  Python, SQL, PHP, JavaScript, Bash Scripting.
-
-**Libraries & Tools:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Apache Spark, Keras/Tensorflow, NLTK, AirFlow, Selenium.
-
-**Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Quantitative Methods.
-
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="python"></code>
-<code><img height="40" src="https://camo.githubusercontent.com/a7de91b915d8b286dda762e3683d9a1c961692d43f8349d020ecd54634a823cf/68747470733a2f2f63646e2e7261776769742e636f6d2f6f64622f6f6666696369616c2d626173682d6c6f676f2f6d61737465722f6173736574732f4c6f676f732f4964656e746974792f504e472f424153485f6c6f676f2d7472616e73706172656e742d62672d636f6c6f722e706e67" title="bash"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="javascript"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="html"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" title="php"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="mysql"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="vscode"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
-</p>
+<div align="right">
+  <a href="README.md" title="English"><img src="https://img.icons8.com/color/48/000000/great-britain.png" width="35"/></a>
+  <a href="README.fr.md" title="Français"><img src="https://img.icons8.com/color/48/000000/france.png" width="35"/></a>
+  <a href="README.vi.md" title="Tiếng Việt"><img src="https://img.icons8.com/color/48/000000/vietnam.png" width="35"/></a>
 </div>
 
-![Marc's github stats](https://github-readme-stats.vercel.app/api?username=locsta&show_icons=true&hide_border=true)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Architecting+Data+Pipelines;High-Performance+Web+Scraping;AWS+Infrastructure+as+Code+(Pulumi);Building+in+Da+Nang%2C+Vietnam" alt="Typing SVG" />
+</div>
 
-<br/>
+<div align="center">
+  <h3>Data Engineer & Software Architect</h3>
+  <p>Building high-scale data aggregation platforms & automation ecosystems.</p>
+</div>
 
-You have finally discovered my Github profile!!
-<br/>
-Please feel free to clone projects and raise issues if you think something could be better.
-<br/>
+---
 
-### Connect with me
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png">](mailto:locstaw@gmail.com)
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](https://www.linkedin.com/in/marc-inizan/)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png">](https://github.com/locsta)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/facebook.png">](https://www.facebook.com/marc.inizan) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png">](https://www.instagram.com/locstaw/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/twitter.png">](https://twitter.com/LocSta_)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/medium-new.png">](https://locstaw.medium.com/)
+### 👨‍💻 About Me
+
+I am a **Data Scientist** turned **Data Engineer/Architect** with a background in professional risk management.
+
+For 10 years, I played poker professionally, a career that forged my intuition for statistics, variance, and decision-making under uncertainty. Today, I apply that same rigor to building autonomous software systems and high-frequency data pipelines.
+
+After years in London, I have relocated to **Da Nang, Vietnam**, where I am architecting the technical foundation for a proprietary data platform.
+
+### 🛠 Tech Stack & Architecture
+
+I specialize in **high-scale data ingestion**, **serverless infrastructure**, and **bot orchestration**. My current production stack includes:
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Core Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
+| **Infrastructure (IaC)** | ![Pulumi](https://img.shields.io/badge/-Pulumi-8A3391?style=flat&logo=pulumi&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| **Orchestration** | **Apache Airflow 3.1+** (Deployed on AWS ECS Fargate via custom Pulumi stacks) |
+| **Data & Backend** | PostgreSQL (RDS), Redis (ElastiCache), DynamoDB, S3 Data Lakes, Flask/FastAPI |
+| **Scraping** | Playwright, Selenium, `aiohttp`, Advanced TLS/Fingerprint management |
+
+### 🚀 Current Focus
+
+I am currently building a distributed system for automated intelligence gathering.
+* **Infrastructure:** Fully automated AWS deployment using **Pulumi** (VPC, ECS Fargate, IAM, Security Groups).
+* **Orchestration:** Running **Airflow 3** with split services (Triggerer, DagProcessor, Scheduler) to manage complex bot networks.
+* **Web Applications:** Developing dashboarding tools (NuxtJS) to trigger scrapers and visualize real-time data streams.
+
+---
+
+### 📍 Hiring in Da Nang, Vietnam
+
+I am building a small, high-performance engineering team in **Da Nang, Vietnam**. I am looking for:
+
+1.  **Data Engineer:** Strong background in SQL optimization, AWS (ECS/S3), and Airflow. Interest in high-performance backends (Rust, Numba) is a major plus.
+2.  **Cross-Platform Developer:** Expert in **Flutter** for building responsive applications across mobile (iOS/Android) and desktop (Windows/Mac).
+
+*> If you enjoy solving complex data engineering problems or building clean, data-driven applications, let's talk.*
+
+---
+
+<div align="center">
+
+[<img src="https://img.shields.io/badge/LinkedIn-Marc%20Inizan-0077B5?style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/marc-inizan/)
+[<img src="https://img.shields.io/badge/Email-locstaw%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:locstaw@gmail.com)
+
+</div>
